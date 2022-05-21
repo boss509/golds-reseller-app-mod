@@ -1,1 +1,1 @@
-{"statu":"succes","msg":"alid Account"}
+{"menu":[{"id":-1,"title":"Favorite","channelNumber":100,"description":"Favorite","thumbnail":"http://66.159.37.146/images/thumbs/fav-icon.png","categoryId":0,"flag":"tvlist","pictureId":0,"type":20},{"id":-2,"title":"Catch-up TV","channelNumber":500,"description":"Catch-up TV","thumbnail":"http://66.159.37.146/images/thumbs/dvr-icon.png","categoryId":0,"flag":"dvr","pictureId":0,"type":10}],"ip":"104.241.139.70"}
